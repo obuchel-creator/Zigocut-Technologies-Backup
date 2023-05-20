@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-29 20:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: amwerk.php:42
+msgid "Header Left Widgets"
+msgstr ""
+
+#: amwerk.php:48
+msgid "Header Right Widgets"
+msgstr ""
+
+#: amwerk.php:54
+msgid "Header Menu Widgets"
+msgstr ""
+
+#: amwerk.php:60
+msgid "Header Logo Widgets"
+msgstr ""
+
+#: amwerk.php:66
+msgid "Footer Widgets"
+msgstr ""
+
+#: amwerk.php:83
+msgid "Portfolio"
+msgstr ""
+
+#: amwerk.php:84
+msgid "Portfolio Item"
+msgstr ""
+
+#: amwerk.php:93
+msgid "Portfolio Categories"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:22
+msgid "Custom JS"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:48 framework_bt_plugin/framework.php:171
+#: framework_bt_plugin/framework.php:294 framework_bt_plugin/framework.php:423
+msgid "Share on Facebook"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:72 framework_bt_plugin/framework.php:195
+#: framework_bt_plugin/framework.php:318 framework_bt_plugin/framework.php:438
+msgid "Share on Twitter"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:97 framework_bt_plugin/framework.php:220
+#: framework_bt_plugin/framework.php:342
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:121 framework_bt_plugin/framework.php:244
+#: framework_bt_plugin/framework.php:366 framework_bt_plugin/framework.php:469
+msgid "Share on VK"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:145 framework_bt_plugin/framework.php:268
+#: framework_bt_plugin/framework.php:390 framework_bt_plugin/framework.php:485
+msgid "Share on WhatsApp"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:453
+msgid "Share on Linkedin"
+msgstr ""
+
+#: widgets/widgets.php:17
+msgid "BT Button"
+msgstr ""
+
+#: widgets/widgets.php:18
+msgid "Button Widget."
+msgstr ""
+
+#: widgets/widgets.php:138
+msgid "Icon:"
+msgstr ""
+
+#: widgets/widgets.php:148
+msgid "Filter..."
+msgstr ""
+
+#: widgets/widgets.php:168
+msgid "Icon Position:"
+msgstr ""
+
+#: widgets/widgets.php:184
+msgid "Text:"
+msgstr ""
+
+#: widgets/widgets.php:188
+msgid "URL or slug:"
+msgstr ""
+
+#: widgets/widgets.php:192
+msgid "Target:"
+msgstr ""
+
+#: widgets/widgets.php:208
+msgid "Style:"
+msgstr ""
+
+#: widgets/widgets.php:224
+msgid "CSS extra class:"
+msgstr ""
